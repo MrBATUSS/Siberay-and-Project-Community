@@ -19,7 +19,9 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
    * **Mantık:** Kodlar bir yorumlayıcı (Interpreter) tarafından satır satır okunur ve anında çalıştırılır.
    * **Özellikler:** Öğrenmesi ve test etmesi çok kolaydır, ancak derlenen dillere göre bir tık daha yavaş çalışabilirler.
    * **Örnekler:** Python, JavaScript, PHP.
-
+  
+* **Önerilen Kaynaklar**
+  * **[ByteBloodz](https://www.youtube.com/@ByteBloodz/videos)**
 ---
 
 ## 🛠️ Popüler Yazılım Dilleri ve Kullanım Alanları
