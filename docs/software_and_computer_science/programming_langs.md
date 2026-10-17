@@ -50,8 +50,7 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
 * **Kimler Seçmeli?** Web tasarımı, siteler ve kullanıcı arayüzleri geliştirmek isteyenler.
 
 * **Önerilen Kaynaklar**
-  * **[Btk Akademi]([http://btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877](https://www.btkakademi.gov.tr/portal/course/javascript-8099))**
-
+  * **[Btk Akademi](https://www.btkakademi.gov.tr/portal/course/javascript-8099)**
 ---
 
 ### 3. ☕ Java
