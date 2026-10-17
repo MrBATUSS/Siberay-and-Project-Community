@@ -34,6 +34,9 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
   * Otomasyon ve Scripting
 * **Kimler Seçmeli?** Yazılıma **sıfırdan başlayanlar**, yapay zeka ve veriyle ilgilenenler.
 
+* **Önerilen Kaynaklar**
+* **[](http://btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)**
+
 ---
 
 ### 2. 🌐 JavaScript (JS)
