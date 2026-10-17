@@ -51,6 +51,7 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
 
 * **Önerilen Kaynaklar**
   * **[Btk Akademi](https://www.btkakademi.gov.tr/portal/course/javascript-8099)**
+  * **[JetBrains Academy](https://academy.jetbrains.com/course/26697)**
 ---
 
 ### 3. ☕ Java
@@ -65,7 +66,7 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
 
 * **Önerilen Kaynaklar**
   * **[Yazılım Teknolojileri (YouTube)](https://www.youtube.com/watch?v=TewGWJsyeJY&list=PLzupOkYTW5dTiYvmh9N4NPRrYBgZeeruQ)**
-  * [JetBrains Academy (İngilizce dökümantasyon)](https://academy.jetbrains.com/course/18905)
+  * **[JetBrains Academy (İngilizce dökümantasyon)](https://academy.jetbrains.com/course/18905)**
 ---
 
 ### 4. 🔷 C# (C-Sharp)
