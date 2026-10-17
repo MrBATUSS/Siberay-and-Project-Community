@@ -54,8 +54,7 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
 * **Önerilen Kaynaklar**
   * **[Btk Akademi](https://www.btkakademi.gov.tr/portal/course/javascript-8099)**
   * **[JetBrains Academy (İngilizce dökümantasyon)](https://academy.jetbrains.com/course/26697)**
-  * **[PROTOTURK](https://www.youtube.com/watch?v=8A7RWDgkXgg&list=PLfAfrKyDRWrGIER-yXLliD_47T_5FY8Qd)**
-  ![GitHub Logosu](https://www.flaticon.com/free-icon/youtube_1384060?term=youtube&page=1&position=5&origin=search&related_id=1384060)
+  * **[PROTOTURK (YouTube)](https://www.youtube.com/watch?v=8A7RWDgkXgg&list=PLfAfrKyDRWrGIER-yXLliD_47T_5FY8Qd)**
 ---
 
 ### 3. ☕ Java
