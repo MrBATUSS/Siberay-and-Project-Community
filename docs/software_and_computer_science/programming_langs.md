@@ -20,8 +20,8 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
    * **Özellikler:** Öğrenmesi ve test etmesi çok kolaydır, ancak derlenen dillere göre bir tık daha yavaş çalışabilirler.
    * **Örnekler:** Python, JavaScript, PHP.
   
-* Derlenen Diller (Compiled Languages):
-- [ByteBloodz](https://www.youtube.com/@ByteBloodz/videos): Merak ettiğiniz yazılım dilleri hakkında 2DK da bilgi sahibi olabilirsiniz.
+**Derlenen Diller (Compiled Languages):**
+* **[ByteBloodz](https://www.youtube.com/@ByteBloodz/videos):** Merak ettiğiniz yazılım dilleri hakkında 2DK da bilgi sahibi olabilirsiniz.
 
 ---
 
