@@ -48,8 +48,9 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
   * Sunucu Tarafı (Node.js)
   * Mobil Uygulamalar (React Native)
 * **Kimler Seçmeli?** Web tasarımı, siteler ve kullanıcı arayüzleri geliştirmek isteyenler.
+
 * **Önerilen Kaynaklar**
-  * **[Btk Akademi](http://btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)**
+  * **[Btk Akademi]([http://btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877](https://www.btkakademi.gov.tr/portal/course/javascript-8099))**
 
 ---
 
@@ -62,6 +63,10 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
   * Finans ve Bankacılık Yazılımları
 * **Kimler Seçmeli?** Nesne Yönelimli Programlamayı (OOP) katı ve disiplinli kurallarla öğrenmek isteyenler.
 
+
+* **Önerilen Kaynaklar**
+  * **[Yazılım Teknolojileri (YouTube)](https://www.youtube.com/watch?v=TewGWJsyeJY&list=PLzupOkYTW5dTiYvmh9N4NPRrYBgZeeruQ)**
+  * [JetBrains Academy (İngilizce dökümantasyon)](https://academy.jetbrains.com/course/18905)
 ---
 
 ### 4. 🔷 C# (C-Sharp)
