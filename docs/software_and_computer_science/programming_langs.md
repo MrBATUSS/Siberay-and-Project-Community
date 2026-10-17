@@ -8,7 +8,7 @@ Bu rehber, yazılıma sıfırdan başlamak isteyen ama *"Hangi dille başlamalı
 
 Bilgisayarlar temelde sadece **0 ve 1** sayılarını (elektrik var/yok) anlar. Buna **Makine Dili (Machine Code)** denir. Ancak insanların 0 ve 1'lerle karmaşık programlar yazması imkansız gibidir.
 
-Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir köprüdür. Yazdığınız kodların bilgisayar tarafından anlaşılabilmesi için iki temel yöntem kullanılır:
+Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir köprüdır. Yazdığınız kodların bilgisayar tarafından anlaşılabilmesi için iki temel yöntem kullanılır:
 
 1. **Derlenen Diller (Compiled Languages):**
    * **Mantık:** Yazdığınız tüm kodlar bir araç (Derleyici/Compiler) tarafından tek seferde makine diline (0 ve 1'lere) dönüştürülür ve bir çalıştırılabilir dosya (`.exe` vb.) oluşturulur.
@@ -20,77 +20,88 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
    * **Özellikler:** Öğrenmesi ve test etmesi çok kolaydır, ancak derlenen dillere göre bir tık daha yavaş çalışabilirler.
    * **Örnekler:** Python, JavaScript, PHP.
   
-* **Önerilen Kaynaklar**
+- **Önerilen Kaynaklar**
   * **[ByteBloodz (YouTube)](https://www.youtube.com/@ByteBloodz/videos)**
 ---
 
 ## 🛠️ Popüler Yazılım Dilleri ve Kullanım Alanları
 
 ### 1. 🐍 Python
-* **Neden Tercih Edilir?** Sözdizimi (syntax) insan diline çok yakındır. Öğrenmesi en kolay dildir. Devasa bir kütüphane ekosistemine sahiptir.
-* **Nasıl Çalışır?** Yorumlanan bir dildir.
-* **Nerede Kullanılır?**
+- **Neden Tercih Edilir?** Sözdizimi (syntax) insan diline çok yakındır. Öğrenmesi en kolay dildir. Devasa bir kütüphane ekosistemine sahiptir.
+- **Nasıl Çalışır?** Yorumlanan bir dildir.
+- **Nerede Kullanılır?**
   * Yapay Zeka ve Makine Öğrenmesi (AI / ML)
   * Veri Bilimi ve Analizi
   * Web Geliştirme (Django, Flask)
   * Otomasyon ve Scripting
-* **Kimler Seçmeli?** Yazılıma **sıfırdan başlayanlar**, yapay zeka ve veriyle ilgilenenler.
+- **Kimler Seçmeli?** Yazılıma **sıfırdan başlayanlar**, yapay zeka ve veriyle ilgilenenler.
 
-* **Önerilen Kaynaklar**
+- **Önerilen Kaynaklar**
   * **[Btk Akademi](http://btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)**
-  * **[Burak Kocaaslan (Youtube)](https://www.youtube.com/watch?v=702lP_gRkD8&list=PLP6TjrWzAOA21-_OzxJ8CGn7VihdYVBcl)**
+  * **[Burak Kocaaslan (YouTube)](https://www.youtube.com/watch?v=702lP_gRkD8&list=PLP6TjrWzAOA21-_OzxJ8CGn7VihdYVBcl)**
+  * **[YouTube Oynatma Listesi](https://www.youtube.com/watch?v=CEr_UiR4Gvk&list=PLY20HpFruiK17gQBHXjJN-YiFujiE1zVE)**
 
 ---
 
 ### 2. 🌐 JavaScript (JS)
-* **Neden Tercih Edilir?** İnternet dünyasının (web sitelerinin) ana dilidir. Tarayıcısı olan her cihazda doğrudan çalışır. Hem ön yüz (frontend) hem arka yüz (backend) geliştirilebilir.
-* **Nasıl Çalışır?** Yorumlanan (JIT compiled) bir dildir.
-* **Nerede Kullanılır?**
+- **Neden Tercih Edilir?** İnternet dünyasının (web sitelerinin) ana dilidir. Tarayıcısı olan her cihazda doğrudan çalışır. Hem ön yüz (frontend) hem arka yüz (backend) geliştirilebilir.
+- **Nasıl Çalışır?** Yorumlanan (JIT compiled) bir dildir.
+- **Nerede Kullanılır?**
   * Etkileşimli Web Siteleri (React, Vue, Angular)
   * Sunucu Tarafı (Node.js)
   * Mobil Uygulamalar (React Native)
-* **Kimler Seçmeli?** Web tasarımı, siteler ve kullanıcı arayüzleri geliştirmek isteyenler.
+- **Kimler Seçmeli?** Web tasarımı, siteler ve kullanıcı arayüzleri geliştirmek isteyenler.
 
-* **Önerilen Kaynaklar**
+- **Önerilen Kaynaklar**
   * **[Btk Akademi](https://www.btkakademi.gov.tr/portal/course/javascript-8099)**
   * **[JetBrains Academy (İngilizce dökümantasyon)](https://academy.jetbrains.com/course/26697)**
   * **[PROTOTURK (YouTube)](https://www.youtube.com/watch?v=8A7RWDgkXgg&list=PLfAfrKyDRWrGIER-yXLliD_47T_5FY8Qd)**
+
 ---
 
 ### 3. ☕ Java
-* **Neden Tercih Edilir?** *"Bir kere yaz, her yerde çalıştır"* felsefesine sahiptir. Güvenli, disiplinli ve kurumsal şirketler tarafından çok tercih edilen bir dildir.
-* **Nasıl Çalışır?** Kodlar önce *Bytecode*'a dönüştürülür, ardından **JVM** (Java Virtual Machine) adındaki sanal makinede çalıştırılır.
-* **Nerede Kullanılır?**
+- **Neden Tercih Edilir?** *"Bir kere yaz, her yerde çalıştır"* felsefesine sahiptir. Güvenli, disiplinli ve kurumsal şirketler tarafından çok tercih edilen bir dildir.
+- **Nasıl Çalışır?** Kodlar önce *Bytecode*'a dönüştürülür, ardından **JVM** (Java Virtual Machine) adındaki sanal makinede çalıştırılır.
+- **Nerede Kullanılır?**
   * Android Mobil Uygulama Geliştirme
   * Büyük Şirketlerin Arka Yüz (Backend) Sistemleri
   * Finans ve Bankacılık Yazılımları
-* **Kimler Seçmeli?** Nesne Yönelimli Programlamayı (OOP) katı ve disiplinli kurallarla öğrenmek isteyenler.
+- **Kimler Seçmeli?** Nesne Yönelimli Programlamayı (OOP) katı ve disiplinli kurallarla öğrenmek isteyenler.
 
-
-* **Önerilen Kaynaklar**
+- **Önerilen Kaynaklar**
   * **[Yazılım Teknolojileri (YouTube)](https://www.youtube.com/watch?v=TewGWJsyeJY&list=PLzupOkYTW5dTiYvmh9N4NPRrYBgZeeruQ)**
   * **[JetBrains Academy (İngilizce dökümantasyon)](https://academy.jetbrains.com/course/18905)**
+
 ---
 
 ### 4. 🔷 C# (C-Sharp)
-* **Neden Tercih Edilir?** Microsoft tarafından geliştirilmiştir. Çok yönlüdür ve oyun motoru Unity ile doğrudan entegredir.
-* **Nasıl Çalışır?** Java'ya benzer; kodlar `.NET` çalışma zamanı (CLR) üzerinde çalışır.
-* **Nerede Kullanılır?**
+- **Neden Tercih Edilir?** Microsoft tarafından geliştirilmiştir. Çok yönlüdür ve oyun motoru Unity ile doğrudan entegredir.
+- **Nasıl Çalışır?** Java'ya benzer; kodlar `.NET` çalışma zamanı (CLR) üzerinde çalışır.
+- **Nerede Kullanılır?**
   * Oyun Geliştirme (Unity Game Engine)
   * Windows Masaüstü Uygulamaları
   * Web Backend (ASP.NET Core)
-* **Kimler Seçmeli?** **Oyun geliştirmek isteyenler** ve Microsoft ekosisteminde ilerlemek isteyenler.
+- **Kimler Seçmeli?** **Oyun geliştirmek isteyenler** ve Microsoft ekosisteminde ilerlemek isteyenler.
 
 ---
 
 ### 5. ⚡ C ve C++
-* **Neden Tercih Edilir?** Donanıma ve belleğe (RAM) doğrudan erişim sağlar. İnanılmaz derecede hızlı ve performanslıdır.
-* **Nasıl Çalışır?** Doğrudan makine koduna derlenir.
-* **Nerede Kullanılır?**
+- **Neden Tercih Edilir?** Donanıma ve belleğe (RAM) doğrudan erişim sağlar. İnanılmaz derecede hızlı ve performanslıdır.
+- **Nasıl Çalışır?** Doğrudan makine koduna derlenir.
+- **Nerede Kullanılır?**
   * Oyun Motorları (Unreal Engine)
   * Gömülü Sistemler ve IoT (Arduino, Sensörler, Robotik)
   * İşletim Sistemleri ve Sürücüler
-* **Kimler Seçmeli?** Donanımla, robotikle, microchip'lerle ilgilenenler veya sistem mantığını en derinden anlamak isteyenler.
+- **Kimler Seçmeli?** Donanımla, robotikle, microchip'lerle ilgilenenler veya sistem mantığını en derinden anlamak isteyenler.
+
+- **Önerilen Kaynaklar (C Programlama):**
+  * **[BTK Akademi - C Programlama Dili](https://www.btkakademi.gov.tr/portal/course/c-programlama-dili-26686)**
+  * **[YouTube Oynatma Listesi (C Temelleri)](https://www.youtube.com/watch?v=OWyotSHKd8M&list=PLY20HpFruiK1cFSUqhP_XJSc_T0LWRh6t)**
+
+- **Önerilen Kaynaklar (C++):**
+  * **[BTK Akademi - C ile Programlamaya Giriş](https://www.btkakademi.gov.tr/portal/course/c-ile-programlamaya-giris-20172)**
+  * **[JetBrains Academy (İngilizce C++ Eğitimi)](https://academy.jetbrains.com/course/20995)**
+  * **[YouTube Oynatma Listesi (C++)](https://www.youtube.com/watch?v=Cs-qhJcK79Y&list=PLY20HpFruiK17RArt5Guq8fF4GQgssQ0m&index=1)**
 
 ---
 
@@ -107,10 +118,10 @@ Yazılıma başlarken en büyük hata **birden fazla dili aynı anda öğrenmeye
    * **Genel Başlangıç & Yapay Zeka / Otomasyon için:** **Python**
    * **Görsel & Web Tasarımı için:** **JavaScript**
    * **Oyun Geliştirmek için:** **C#**
-   * **Robottik & Donanım için:** **C / C++** veya **Python**
+   * **Robotik & Donanım için:** **C / C++**
 
 3. **Geliştirme Ortamınızı (IDE) Kurun:**
-   * Kodlarınızı yazmak için **VS Code (Visual Studio Code)** indirip kurun.
+   * Kodlarınızı yazmak için **VS Code (Visual Studio Code)** veya dile uygun resmi geliştirme ortamını kurun.
 
 4. **Proje Odaklı İlerleyin:**
    * Sadece video izlemeyin veya kitap okumayın. Küçük de olsa uygulamalar yapın (Örn: Hesap makinesi, Taş-Kağıt-Makas oyunu, To-Do List uygulaması).
