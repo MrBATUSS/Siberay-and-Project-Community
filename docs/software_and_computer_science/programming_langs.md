@@ -21,7 +21,7 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
    * **Örnekler:** Python, JavaScript, PHP.
   
 * **Önerilen Kaynaklar:**
-- * **[ByteBloodz](https://www.youtube.com/@ByteBloodz/videos):** Merak ettiğiniz yazılım dilleri hakkında 2DK da bilgi sahibi olabilirsiniz.
+**[ByteBloodz](https://www.youtube.com/@ByteBloodz/videos):** Merak ettiğiniz yazılım dilleri hakkında 2DK da bilgi sahibi olabilirsiniz.
 
 ---
 
