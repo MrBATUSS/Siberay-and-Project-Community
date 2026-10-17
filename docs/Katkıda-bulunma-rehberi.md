@@ -28,8 +28,5 @@ Markdown (`.md`) veya kodlama bilmek zorunda değilsiniz! Çalışmanızı bize 
 
 Her türlü soru, öneri ve içerik gönderimi için bize ulaşabilirsiniz:
 
-* 📧 **E-Posta:** `[E-Posta Adresinizi Buraya Yazın]`
-* 💬 **Kulüp İletişim:** `[Kulüp WhatsApp/Discord/Duyuru Grubu Linki]`
-* 👤 **Kulüp Başkanı / Sorumlusu:** `[Adınız / Kullanıcı Adınız]`
-
-> 💡 **Not:** Mail atarken **Adınızı, Soyadınızı** ve varsa **GitHub Kullanıcı Adınızı** eklemeyi unutmayın!
+* 📧 **E-Posta:** `[siberayprojekulubu@gmail.com]`
+> 💡 **Not:** Mail atarken **Adınızı, Soyadınızı** ve varsa **GitHub Kullanıcı Adınızı(varsa)** eklemeyi unutmayın!
