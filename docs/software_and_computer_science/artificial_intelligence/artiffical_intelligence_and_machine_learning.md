@@ -238,7 +238,7 @@ Model eğitmek ve kendiniz denemeniz için kod yazmanıza gerek yok. Google bizi
 ## 🛠️ Adım Adım Uygulama Rehberi
 
 **1. Adım: Platforma Giriş Yapın:**
-- Tarayıcınızda [teachablemachine.withgoogle.com](teachablemachine.withgoogle.com) adresine gidin.
+- Tarayıcınızda [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/) adresine gidin.
 - Ana sayfadaki "Get Started" (Başlayın) butonuna tıklayın.
 - Karşınıza çıkan proje türlerinden "Image Project" (Görsel Projesi) ➔ "Standard image model" seçeneğini seçin.
 
