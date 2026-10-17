@@ -36,7 +36,7 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
 
 * **Önerilen Kaynaklar**
   * **[Btk Akademi](http://btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)**
-  * **[Burak Kocaaslan](https://www.youtube.com/watch?v=702lP_gRkD8&list=PLP6TjrWzAOA21-_OzxJ8CGn7VihdYVBcl)**
+  * **[Burak Kocaaslan (Youtube)](https://www.youtube.com/watch?v=702lP_gRkD8&list=PLP6TjrWzAOA21-_OzxJ8CGn7VihdYVBcl)**
 
 ---
 
