@@ -83,6 +83,9 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
   * Web Backend (ASP.NET Core)
 - **Kimler Seçmeli?** **Oyun geliştirmek isteyenler** ve Microsoft ekosisteminde ilerlemek isteyenler.
 
+- **Önerilen Kaynaklar:**
+  * **[BTK Akademi - C# / .NET Programlama](https://www.btkakademi.gov.tr/portal/course/c-programlama-26083)**
+
 ---
 
 ### 5. ⚡ C ve C++
