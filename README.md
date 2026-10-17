@@ -7,3 +7,4 @@ Siz de katkıda bulunmak isterseniz [Katkıda Bulunma Rehberi](https://github.co
 
 ## Yazılım ve Bilişim:
 - [Yazılım Dilleri](https://github.com/MrBATUSS/Siberay-and-Project-Community/blob/main/docs/software_and_computer_science/programming_langs.md)
+- [Yapay Zeka ve Makine Öğrenimi](docs/software_and_computer_science/artificial_intelligence/artiffical_intelligence_and_machine_learning.md)
