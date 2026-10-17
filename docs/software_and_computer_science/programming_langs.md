@@ -19,6 +19,9 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
    * **Mantık:** Kodlar bir yorumlayıcı (Interpreter) tarafından satır satır okunur ve anında çalıştırılır.
    * **Özellikler:** Öğrenmesi ve test etmesi çok kolaydır, ancak derlenen dillere göre bir tık daha yavaş çalışabilirler.
    * **Örnekler:** Python, JavaScript, PHP.
+  
+**Önerilen Kaynaklar:**
+- **[ByteBloodz](https://www.youtube.com/@ByteBloodz/videos):** Merak ettiğiniz yazılım dilleri hakkında 2DK da bilgi sahibi olabilirsiniz.
 
 ---
 
@@ -33,6 +36,10 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
   * Web Geliştirme (Django, Flask)
   * Otomasyon ve Scripting
 * **Kimler Seçmeli?** Yazılıma **sıfırdan başlayanlar**, yapay zeka ve veriyle ilgilenenler.
+
+** Önerilen Kaynaklar:**
+* **[Btk Akademi](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877):** Katılım sertifikalı, devlet destekli, resmi eğitimler.
+* **[Burak Kocaaslan (YouTube)]([Burak Kocaaslan](https://www.youtube.com/watch?v=702lP_gRkD8&list=PLP6TjrWzAOA21-_OzxJ8CGn7VihdYVBcl&pp=0gcJCRwDOCosWNin))
 
 ---
 
