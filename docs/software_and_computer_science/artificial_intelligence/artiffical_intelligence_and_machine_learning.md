@@ -1,6 +1,8 @@
 # Yapay Zeka & Makine Öğrenimi 🤖
 
 ## Başlangıç:
+Merhaba Siberay ve Proje Kulübü! 👋 Bu rehberde sizlerle **Yapay zeka ve makine öğrenimini** mercek altına alıyor olucaz. Umarım öğretici ve anlaşılır bir rehber olmuştur. Herkese iyi okumalar diliyorum.
+
 Çoğu insan yapay zeka ile makine öğreniminin aynı şey olduğunu sanır lakin aslında bunlar birer iç içe geçmiş kavramlardır. Yapay zeka ise bunların bütünüdür.
 
 Öncelikle Yapay Zeka(Artiffical intelligence)'nın ne olduğuna bir bakalım
