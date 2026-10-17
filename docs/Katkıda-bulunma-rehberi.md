@@ -19,7 +19,7 @@ Bu bilgi bankasının büyümesi, güncel kalması ve ortak bir öğrenme alanı
 Markdown (`.md`) veya kodlama bilmek zorunda değilsiniz! Çalışmanızı bize ulaştırmak için şu adımları izlemeniz yeterli:
 
 1. **İçeriğinizi Hazırlayın:** Paylaşmak istediğiniz metni ister e-postanın içine doğrudan yazın, ister bir Word belgesi, ekran görüntüsü veya kod dosyası olarak hazırlayın.
-2. **Mail Atın:** Hazırladığınız içeriği aşağıdaki e-posta adresine göndermeniz yeterlidir.
+2. **Mail Atın:** Hazırladığınız içeriği e-posta adresimize göndermeniz yeterlidir.
 3. **Contributor (Katkıda Bulunan) Olun:** Gönderdiğiniz içerik bilgi bankasına eklenecek ve varsa **GitHub kullanıcı adınız** projenin resmi katkıda bulunanlar listesine eklenecektir!
 
 ---
@@ -28,5 +28,7 @@ Markdown (`.md`) veya kodlama bilmek zorunda değilsiniz! Çalışmanızı bize 
 
 Her türlü soru, öneri ve içerik gönderimi için bize ulaşabilirsiniz:
 
-* 📧 **E-Posta:** `[siberayprojekulubu@gmail.com]`
-> 💡 **Not:** Mail atarken **Adınızı, Soyadınızı** ve varsa **GitHub Kullanıcı Adınızı(varsa)** eklemeyi unutmayın!
+* 📧 **E-Posta:** `siberayprojekulubu@gmail.com`
+* 💬 **WhatsApp Grupları:** Önerileriniz, soru-cevap süreçleri ve konu özelindeki kulüp WhatsApp gruplarımız üzerinden bizimle iletişime geçebilirsiniz.
+
+> 💡 **Not:** Mail atarken **Adınızı, Soyadınızı** ve varsa **GitHub Kullanıcı Adınızı** eklemeyi unutmayın!
