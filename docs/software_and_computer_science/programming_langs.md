@@ -38,8 +38,8 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
 
 - **Önerilen Kaynaklar**
   * **[Btk Akademi](http://btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)**
-  * **[Burak Kocaaslan (YouTube)](https://www.youtube.com/watch?v=702lP_gRkD8&list=PLP6TjrWzAOA21-_OzxJ8CGn7VihdYVBcl)**
-  * **[YouTube Oynatma Listesi](https://www.youtube.com/watch?v=CEr_UiR4Gvk&list=PLY20HpFruiK17gQBHXjJN-YiFujiE1zVE)**
+  * **[Burak KOCAASLAN (YouTube)](https://www.youtube.com/watch?v=702lP_gRkD8&list=PLP6TjrWzAOA21-_OzxJ8CGn7VihdYVBcl)**
+  * **[Fehmi UYAR (YouTube)](https://www.youtube.com/watch?v=CEr_UiR4Gvk&list=PLY20HpFruiK17gQBHXjJN-YiFujiE1zVE)**
 
 ---
 
@@ -95,13 +95,13 @@ Yazılım dilleri, insan dili (İngilizce) ile bilgisayar dili arasındaki bir k
 - **Kimler Seçmeli?** Donanımla, robotikle, microchip'lerle ilgilenenler veya sistem mantığını en derinden anlamak isteyenler.
 
 - **Önerilen Kaynaklar (C Programlama):**
-  * **[BTK Akademi - C Programlama Dili](https://www.btkakademi.gov.tr/portal/course/c-programlama-dili-26686)**
-  * **[YouTube Oynatma Listesi (C Temelleri)](https://www.youtube.com/watch?v=OWyotSHKd8M&list=PLY20HpFruiK1cFSUqhP_XJSc_T0LWRh6t)**
+  * **[BTK Akademi](https://www.btkakademi.gov.tr/portal/course/c-programlama-dili-26686)**
+  * **[Fehmi UYAR (YouTube)](https://www.youtube.com/watch?v=OWyotSHKd8M&list=PLY20HpFruiK1cFSUqhP_XJSc_T0LWRh6t)**
 
 - **Önerilen Kaynaklar (C++):**
-  * **[BTK Akademi - C ile Programlamaya Giriş](https://www.btkakademi.gov.tr/portal/course/c-ile-programlamaya-giris-20172)**
-  * **[JetBrains Academy (İngilizce C++ Eğitimi)](https://academy.jetbrains.com/course/20995)**
-  * **[YouTube Oynatma Listesi (C++)](https://www.youtube.com/watch?v=Cs-qhJcK79Y&list=PLY20HpFruiK17RArt5Guq8fF4GQgssQ0m&index=1)**
+  * **[BTK Akademi](https://www.btkakademi.gov.tr/portal/course/c-ile-programlamaya-giris-20172)**
+  * **[JetBrains Academy (İngilizce)](https://academy.jetbrains.com/course/20995)**
+  * **[Fehmi UYAR](https://www.youtube.com/watch?v=Cs-qhJcK79Y&list=PLY20HpFruiK17RArt5Guq8fF4GQgssQ0m&index=1)**
 
 ---
 
