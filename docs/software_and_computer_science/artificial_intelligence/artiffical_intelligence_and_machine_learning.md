@@ -231,12 +231,12 @@ flowchart TD
     linkStyle default stroke:#34495E,stroke-width:2.5px;
 ```
 
-# 🎨 Teachable Machine ile Kodsuz (No-Code) Yapay Zeka Projesi
+# 🎨 Teachable Machine ile Kodsuz Yapay Zeka Projesi
 
 Model eğitmek ve kendiniz denemeniz için kod yazmanıza gerek yok. Google bizim gibi öğrenciler için harika bir web aracı yayınlamış.
 
 > ⚠️ **ÖNEMLİ UYARI (Bilgisayar Zorunluluğu):** 
-> Bu aracı kullanmak için **kesinlikle bir bilgisayar (PC veya dizüstü bilgisayar) ve masaüstü tarayıcısı (Google Chrome vb.) kullanmanız gerekmektedir.** Mobil telefon tarayıcıları bu yapay zeka aracını desteklemediği için ekranınızda sadece beyaz bir ekran kalacaktır[cite: 3]. 
+> Bu aracı kullanmak için **kesinlikle bir bilgisayar (PC veya dizüstü bilgisayar) ve masaüstü tarayıcısı (Google Chrome vb.) kullanmanız gerekmektedir.** Mobil telefon tarayıcıları bu yapay zeka aracını desteklemediği için ekranınızda sadece beyaz bir ekran kalacaktır. 
 > * **Not:** Bilgisayarınızda web kamerası yoksa, gerekli fotoğrafları telefonunuzla çekip kablo veya WhatsApp Web üzerinden bilgisayarınıza aktarabilir ve Teachable Machine'e dosya olarak (`Upload`) yükleyebilirsiniz.
 
 ## 🛠️ Adım Adım Uygulama Rehberi
