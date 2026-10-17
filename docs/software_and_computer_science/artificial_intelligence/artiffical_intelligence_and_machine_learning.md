@@ -12,7 +12,43 @@ Merhaba Siberay ve Proje Kulübü! 👋 Bu rehberde sizlerle **Yapay zeka ve mak
 
 - **Makine Öğrenimi (Machine Learning ML):** Yapay zekanın alt dalıdır. Kabaca **programlanmadan, veriden öğrenerek tahminler yapan veya kararlar alan algoritmalar bütünüdür.** 
 
-Peki.. ne demek **programlanmadan ?** Kabaca şöyle anlatabilirim..
+## 📐 Kavram Hiyerarşisi
+```mermaid
+flowchart TB
+    %% Kutu stillerini (renkler, kenarlıklar, yazı tipleri) tanımlıyoruz
+    classDef aiStyle fill:#3b5998,stroke:#1d2c4d,stroke-width:3px,color:#ffffff,font-weight:bold,font-size:16px;
+    classDef mlStyle fill:#f37021,stroke:#a34814,stroke-width:3px,color:#ffffff,font-weight:bold,font-size:16px;
+    classDef dlStyle fill:#ea1c4e,stroke:#9e1334,stroke-width:3px,color:#ffffff,font-weight:bold,font-size:16px;
+    classDef nnStyle fill:#00b4b4,stroke:#006666,stroke-width:3px,color:#ffffff,font-weight:bold,font-size:16px;
+    
+    %% Bağlantı çizgilerini ve genel arka planı belirginleştiriyoruz
+    %% linkStyle 0,1,2,3 diyerek okların rengini koyu gri yapıyoruz
+    
+    subgraph AI["AI - Artificial Intelligence"]
+        direction TB
+        subgraph ML["ML - Machine Learning"]
+            direction TB
+            subgraph DL["DL - Deep Learning"]
+                direction TB
+                NN["NN - Neural Networks"]
+            end
+        end
+    end
+
+    %% Tanımladığımız stilleri kutulara uyguluyoruz
+    class AI aiStyle;
+    class ML mlStyle;
+    class DL dlStyle;
+    class NN nnStyle;
+    
+    %% Arka planı ve çizgileri netleştirmek için stil atamaları
+    style AI fill:#3b5998,stroke:#2c4373,stroke-width:4px,color:#fff
+    style ML fill:#f37021,stroke:#c25715,stroke-width:4px,color:#fff
+    style DL fill:#ea1c4e,stroke:#b8143b,stroke-width:4px,color:#fff
+    style NN fill:#00b4b4,stroke:#008080,stroke-width:4px,color:#fff
+```
+
+### Peki.. ne demek **programlanmadan ?** Kabaca şöyle anlatabilirim..
 
 ## ⚡ Geleneksel Programlama vs. Makine Öğrenimi
 Eğer bilgisayara tam anlamıyla her şeyi programlayacak olsanız (ki bunu yapmanız mümkün olmaz) milyarlarca olasığı hesap etmeniz gerekirdi. Örneğin diyelim ki bir spam e-posta aracınız olsun. İşte size basit bir spam e-posta örneği:
@@ -55,41 +91,7 @@ flowchart LR
     end
 ```
 
-## 📐 Kavram Hiyerarşisi
-```mermaid
-flowchart TB
-    %% Kutu stillerini (renkler, kenarlıklar, yazı tipleri) tanımlıyoruz
-    classDef aiStyle fill:#3b5998,stroke:#1d2c4d,stroke-width:3px,color:#ffffff,font-weight:bold,font-size:16px;
-    classDef mlStyle fill:#f37021,stroke:#a34814,stroke-width:3px,color:#ffffff,font-weight:bold,font-size:16px;
-    classDef dlStyle fill:#ea1c4e,stroke:#9e1334,stroke-width:3px,color:#ffffff,font-weight:bold,font-size:16px;
-    classDef nnStyle fill:#00b4b4,stroke:#006666,stroke-width:3px,color:#ffffff,font-weight:bold,font-size:16px;
-    
-    %% Bağlantı çizgilerini ve genel arka planı belirginleştiriyoruz
-    %% linkStyle 0,1,2,3 diyerek okların rengini koyu gri yapıyoruz
-    
-    subgraph AI["AI - Artificial Intelligence"]
-        direction TB
-        subgraph ML["ML - Machine Learning"]
-            direction TB
-            subgraph DL["DL - Deep Learning"]
-                direction TB
-                NN["NN - Neural Networks"]
-            end
-        end
-    end
 
-    %% Tanımladığımız stilleri kutulara uyguluyoruz
-    class AI aiStyle;
-    class ML mlStyle;
-    class DL dlStyle;
-    class NN nnStyle;
-    
-    %% Arka planı ve çizgileri netleştirmek için stil atamaları
-    style AI fill:#3b5998,stroke:#2c4373,stroke-width:4px,color:#fff
-    style ML fill:#f37021,stroke:#c25715,stroke-width:4px,color:#fff
-    style DL fill:#ea1c4e,stroke:#b8143b,stroke-width:4px,color:#fff
-    style NN fill:#00b4b4,stroke:#008080,stroke-width:4px,color:#fff
-```
 ## 🔄 Makine Öğrenimi Öğrenme Yöntemleri
 Makine öğrenimi algoritmaları veriyi işleme ve öğrenme biçimlerine göre 4 temel kategoriye ayrılır:
 ```mermaid
