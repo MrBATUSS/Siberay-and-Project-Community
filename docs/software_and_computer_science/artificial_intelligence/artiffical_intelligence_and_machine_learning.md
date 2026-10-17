@@ -231,14 +231,18 @@ flowchart TD
     linkStyle default stroke:#34495E,stroke-width:2.5px;
 ```
 
-## 🎨 Hadi Uygulayıp Öğrenelim
+# 🎨 Teachable Machine ile Kodsuz (No-Code) Yapay Zeka Projesi
 
 Model eğitmek ve kendiniz denemeniz için kod yazmanıza gerek yok. Google bizim gibi öğrenciler için harika bir web aracı yayınlamış.
+
+> ⚠️ **ÖNEMLİ UYARI (Bilgisayar Zorunluluğu):** 
+> Bu aracı kullanmak için **kesinlikle bir bilgisayar (PC veya dizüstü bilgisayar) ve masaüstü tarayıcısı (Google Chrome vb.) kullanmanız gerekmektedir.** Mobil telefon tarayıcıları bu yapay zeka aracını desteklemediği için ekranınızda sadece beyaz bir ekran kalacaktır[cite: 3]. 
+> * **Not:** Bilgisayarınızda web kamerası yoksa, gerekli fotoğrafları telefonunuzla çekip kablo veya WhatsApp Web üzerinden bilgisayarınıza aktarabilir ve Teachable Machine'e dosya olarak (`Upload`) yükleyebilirsiniz.
 
 ## 🛠️ Adım Adım Uygulama Rehberi
 
 **1. Adım: Platforma Giriş Yapın:**
-- Tarayıcınızda [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/) adresine gidin.
+- Bilgisayarınızdaki tarayıcıyı açın ve [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/) adresine gidin.
 - Ana sayfadaki "Get Started" (Başlayın) butonuna tıklayın.
 - Karşınıza çıkan proje türlerinden "Image Project" (Görsel Projesi) ➔ "Standard image model" seçeneğini seçin.
 
@@ -248,22 +252,21 @@ Model eğitmek ve kendiniz denemeniz için kod yazmanıza gerek yok. Google bizi
 Gelin örnek olarak bir "El Hareketi Tanıma" projesi yapalım:
 
 **Sınıf 1 (Class 1):**
-1. Kalem ikonuna basarak adını El_Acik olarak değiştirin.
-2. Webcam butonuna basarak kameranızı açın.
-3. Elinizi kameraya açık şekilde tutup "Hold to Record" (Kaydetmek için Basılı Tut) butonuna basarak farklı açılardan 100 - 200 adet fotoğraf kaydedin.(100-200 kare çekimi ortalama 2-3 saniye sürüyor.)
+1. Kalem ikonuna basarak adını `El_Acik` olarak değiştirin.
+2. Webcam butonuna basarak kameranızı açın (veya telefonla çektiğiniz fotoğrafları bilgisayara atıp "Upload" seçeneği ile yükleyin).
+3. Elinizi kameraya açık şekilde tutup "Hold to Record" (Kaydetmek için Basılı Tut) butonuna basarak farklı açılardan 100 - 200 adet fotoğraf kaydedin. (100-200 kare çekimi ortalama 2-3 saniye sürüyor.)
 
 **Sınıf 2 (Class 2):**
-1. Adını Yumruk olarak değiştirin.
+1. Adını `Yumuruk` olarak değiştirin.
 2. Elinizi yumruk yapıp kameraya göstererek yine 100 - 200 adet fotoğraf kaydedin.
 
-- 💡 (İsteğe Bağlı) Add a class butonuna basarak 3. bir sınıf ekleyip adına Arka_Plan diyebilir ve kameraya hiçbir şey göstermeden ortamın fotoğrafını çekebilirsiniz.
+- 💡 (İsteğe Bağlı) `Add a class` butonuna basarak 3. bir sınıf ekleyip adına `Arka_Plan` diyebilir ve kameraya hiçbir şey göstermeden ortamın fotoğrafını çekebilirsiniz.
 
 **3. Adım: Modeli Eğitin (Train Model):**
 - Verileri topladıktan sonra ortada bulunan "Train Model" (Modeli Eğit) butonuna tıklayın.
+- ⚠️ **Önemli:** Eğitim devam ederken tarayıcı sekmesini kapatmayın veya değiştirmeyin. İşlem tarayıcınız üzerinden hızlıca tamamlanacaktır.
 
-*   ⚠️ Önemli: Eğitim devam ederken tarayıcı sekmesini kapatmayın veya değiştirmeyin. İşlem tarayıcınız üzerinden hızlıca tamamlanacaktır.
-
-**4. Adım: Canlı Test Edin (Preview)**
-- Eğitim biter bitmez sağ taraftaki "Preview" (Önizleme) ekranı aktifleşecektir:
-- Kameranın karşısına geçip elinizi açın. Modelin %99 oranında El_Acik tahmininde bulunduğunu göreceksiniz.
-- Elinizi yumruk yapın ve çubuk grafiğin anında Yumurruk sınıfına kaydığını canlı olarak izleyin!
+**4. Adım: Canlı Test Edin (Preview):**
+- Eğitim biter bitmez sağ taraftaki "Preview" (Önizleme) ekranı aktifleşecektir.
+- Kameranın karşısına geçip elinizi açın. Modelin %99 oranında `El_Acik` tahmininde bulunduğunu göreceksiniz.
+- Elinizi yumruk yapın ve çubuk grafiğin anında `Yumuruk` sınıfına kaydığını canlı olarak izleyin!
