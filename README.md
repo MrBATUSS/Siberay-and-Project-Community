@@ -7,8 +7,3 @@ Siz de katkıda bulunmak isterseniz [Katkıda Bulunma Rehberi](https://github.co
 
 ## Yazılım ve Bilişim:
 - [Yazılım Dilleri](https://github.com/MrBATUSS/Siberay-and-Project-Community/blob/main/docs/software_and_computer_science/programming_langs.md)
-- [Makine Öğrenimi](link)
-- [Siber Güvenlik](link)
-
-## Elektrik/Elektronik Mühendisliği
-## Makine Mühendisliği
